@@ -1,2 +1,2 @@
 # terraform-tfnotify
-Terraform docker image with tfnotify for CI
+Terraform docker image with tfnotify for CircleCI
